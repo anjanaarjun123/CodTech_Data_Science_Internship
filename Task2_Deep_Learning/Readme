@@ -1,0 +1,41 @@
+Deep Learning – Image Classification (MNIST)
+
+📄 Description
+
+Built a Convolutional Neural Network (CNN) model to classify digits (0–9) from the MNIST dataset using TensorFlow.
+
+📁 Files
+
+mnist_image_classifier.ipynb
+
+Accuracy/loss graphs (inline in notebook)
+
+🧠 Dataset
+
+MNIST – Handwritten digits dataset from Keras
+
+🧪 Steps Performed
+
+Loaded MNIST dataset
+
+Normalized pixel values
+
+Built a CNN model using Keras
+
+Trained and validated the model
+
+Plotted accuracy and loss curves
+
+🛠️ Libraries Used
+
+tensorflow / keras
+
+numpy
+
+matplotlib
+
+✅ Output
+
+Validation Accuracy: ~98%
+
+Visual performance metrics

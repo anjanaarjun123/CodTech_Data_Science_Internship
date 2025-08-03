@@ -1,0 +1,39 @@
+Task 4: Optimization Using PuLP
+
+📄 Description
+
+Formulated and solved a Linear Programming problem using PuLP to maximize profit in a bakery scenario.
+
+📁 Files
+
+optimization_model.ipynb
+
+🧪 Problem
+
+1 cake takes 2 hours, gives ₹200
+
+1 bread takes 1 hour, gives ₹100
+
+Maximum 40 hours available
+
+🧪 Steps Performed
+
+Defined decision variables: Cake, Bread
+
+Created objective function: Maximize profit
+
+Added constraint: Total hours ≤ 40
+
+Solved using PuLP
+
+🛠️ Libraries Used
+
+pulp
+
+✅ Output
+
+Optimal number of cakes: 10
+Optimal number of breads: 20
+Maximum Profit: ₹4000
+
+

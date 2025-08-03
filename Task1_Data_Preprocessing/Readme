@@ -1,0 +1,38 @@
+📘 Task 1: Data Preprocessing Pipeline
+
+📄 Description
+
+This task demonstrates a complete ETL (Extract, Transform, Load) pipeline using Pandas and Scikit-learn.
+
+📁 Files
+
+data_preprocessing_pipeline.ipynb – Contains all preprocessing steps
+
+X_train.csv, X_test.csv, y_train.csv, y_test.csv – Processed datasets
+
+🧪 Steps Performed
+
+Loaded Titanic dataset
+
+Handled missing values (Age, Embarked)
+
+Dropped irrelevant column (Cabin)
+
+Encoded categorical variables (Sex, Embarked)
+
+Scaled numerical features (Age, Fare, Pclass)
+
+Split into train-test sets
+
+🛠️ Libraries Used
+
+pandas
+
+numpy
+
+scikit-learn
+
+✅ Output
+
+Cleaned, encoded, and scaled data saved to CSV files for modeling.
+
